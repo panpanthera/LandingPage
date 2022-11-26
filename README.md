@@ -1,2 +1,2 @@
 # LandingPage
-Hello there, this is my first time using React.js
+Hello there, this is my first time using the React Framework.
